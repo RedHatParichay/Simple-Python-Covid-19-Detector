@@ -1,0 +1,1 @@
+# Simple-Python-Covid-19-Detector
